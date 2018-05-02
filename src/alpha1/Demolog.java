@@ -9,13 +9,13 @@ public class Demolog {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-log.debug("this is debugging");
+log.debug("clicked on a button");
 
 if(3>2)
 {
-	log.info("object is there");	
-	log.error("object is not present");
-	log.fatal("this is fatal");
+	log.info("button is displayed");	
+	log.error("button is not present");
+	log.fatal("button is missing");
 }
 	}
 

@@ -1,0 +1,6 @@
+17:39:59.000 [main] ERROR beta1.Demolog1 - object is not present
+17:39:59.076 [main] FATAL beta1.Demolog1 - this is fatal
+17:41:26.617 [main] DEBUG beta1.Demolog1 - this is debugging
+17:41:26.624 [main] INFO  beta1.Demolog1 - object is there
+17:41:26.625 [main] ERROR beta1.Demolog1 - object is not present
+17:41:26.625 [main] FATAL beta1.Demolog1 - this is fatal

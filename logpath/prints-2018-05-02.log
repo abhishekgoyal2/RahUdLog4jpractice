@@ -1,0 +1,8 @@
+17:38:18.678 [main] ERROR alpha1.Demolog - button is not present
+17:38:18.683 [main] FATAL alpha1.Demolog - button is missing
+17:39:17.974 [main] DEBUG alpha1.Demolog - clicked on a button
+17:39:17.982 [main] INFO  alpha1.Demolog - button is displayed
+17:39:17.982 [main] ERROR alpha1.Demolog - button is not present
+17:39:17.983 [main] FATAL alpha1.Demolog - button is missing
+17:39:58.992 [main] DEBUG beta1.Demolog1 - this is debugging
+17:39:58.999 [main] INFO  beta1.Demolog1 - object is there
